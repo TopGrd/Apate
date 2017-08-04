@@ -1,4 +1,5 @@
-### Name
+### Apate
 Apate（Απατη） was the personification of deceit
 ### Description
-A easy server
+A easy mock server
+### usage
