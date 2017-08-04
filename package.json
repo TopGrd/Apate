@@ -2,7 +2,6 @@
   "name": "apate",
   "version": "0.0.1",
   "description": "a easy mock server for develop",
-  "main": "app.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
